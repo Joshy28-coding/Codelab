@@ -1,0 +1,20 @@
+{
+    "Employee Details":
+[
+    {
+        "emp_name": "Arshiya",
+        "emp_id": 1234,
+        "job_profile": "Program Leader"
+    },
+    {
+        "emp_name" : "Usman",
+        "emp_id" : "1311",
+        "job_profile" : "Senior Lecturer"
+    },
+    {
+        
+        "emp_name" : "Ephin",
+        "emp_id" : "3000",
+        "job_profile" : "Full time Lecturer"
+    }
+]}
